@@ -12,7 +12,7 @@ export default function Footer() {
               Join a helpful community of Space-Alpha</p>
           </div>
           <div className='footer-div1-el'>
-            <h4 className='footer-headings'>ABOUT</h4> <br />
+            <h4 className='footer-headings'>ABOUT2</h4> <br />
             <p className='footer-paragraph'>Space-Alpha is a learning platform
               Here you can learn Cosmology & research
               We provide latest information about sapce
