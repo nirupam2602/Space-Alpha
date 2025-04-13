@@ -25,6 +25,11 @@ export default function ContactUs() {
           <h4>Email</h4>
           <p>space@α.in</p>
         </div>
+        <div className="doc-cards">
+          <i className="fa fa-envelope"></i>
+          <h4>Website</h4>
+          <p>space-alpha2602.netlify.app/</p>
+        </div>
       </div>
       <div className="form-container">
         <div className="form">
