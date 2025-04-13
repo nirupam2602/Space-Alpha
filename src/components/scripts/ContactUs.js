@@ -23,12 +23,7 @@ export default function ContactUs() {
         <div className="doc-cards">
           <i className="fa fa-envelope"></i>
           <h4>Email</h4>
-          <p>space@α.in</p>
-        </div>
-        <div className="doc-cards">
-          <i className="fa fa-envelope"></i>
-          <h4>Website</h4>
-          <p>space-alpha2602.netlify.app/</p>
+          <p>space.alpha11@</p>
         </div>
       </div>
       <div className="form-container">
@@ -46,7 +41,7 @@ export default function ContactUs() {
         <div className="about">
           <h1>Get in Touch🤌</h1>
           <p>
-          Space Alpha is an innovative learning platform dedicated to exploring
+          Space α is an innovative learning platform dedicated to exploring
             the vast field of cosmology and space research. Designed for
             enthusiasts and learners alike, the platform offers up-to-date,
             reliable information about the universe, space missions, and

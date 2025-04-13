@@ -12,9 +12,9 @@ export default function Mission() {
                 <img src='https://static.vecteezy.com/system/resources/previews/025/002/362/original/3d-astronaut-character-in-space-on-transparent-background-generative-ai-png.png' className='astronaut-img' alt='' />
             </div>
             <div id='home-heading' >
-                <h1>Space Alpha</h1>
+            <h1>Space Alpha &#123;&#945;&#125;</h1>
                 <h1>EXPLORE THE UNIVERSE</h1>
-                <p>Space Alpha is a learning platform. Here you can learn Cosmology and Research. <br /> We provide latest information about space.</p>
+                <p>Space α is a learning platform. Here you can learn Cosmology and Research. <br /> We provide latest information about space.</p>
                 <span className='yt-links'>Formation Of Universe <i htmlFor='Hide-Video'  className='fa fa-youtube' /></span>
                 <label htmlFor='Hide-Video' className='head-button' onClick={() => {setYtLink(ytLink)}} >Watch Video</label>
             </div>

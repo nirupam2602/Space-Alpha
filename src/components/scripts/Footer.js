@@ -13,16 +13,14 @@ export default function Footer() {
           </div>
           <div className='footer-div1-el'>
             <h4 className='footer-headings'>ABOUT</h4> <br />
-            <p className='footer-paragraph'>Space-Alpha is a learning platform
-              Here you can learn Cosmology & research
-              We provide latest information about sapce
-              Also we update information with time
-              All informations are collected from NASA</p>
+            <p className='footer-paragraph'>Space Alpha is a learning platform dedicated to space enthusiastic students.
+            Here, you can explore a wide range of topics related to space research, featuring information from space agencies around the world.</p>
           </div>
           <div className='footer-div1-el'>
             <h4 className='footer-headings'>DEVELOPER TEAM</h4> <br />
-            <p className='fa'>&#xf0e0; space.alpha@gmail.com</p>
+            <p className='fa'>&#xf0e0; space.alpha11@gmail.com</p>
             <p className='footer-paragraph'>Developer</p>
+            <p className='footer-paragraph'><a href ="https://github.com/nirupam2602" rel="noreferrer" target="_blank">Nirupam Kumar</a></p>
           </div>
         </div>
         <span className='scl-head'>Our Social Media Handles </span>
@@ -32,7 +30,7 @@ export default function Footer() {
           <a href="/" className="fa fa-instagram"> </a>
           <a href="/" className="fa fa-youtube"> </a>
         </div>
-        <p className='copyright-p'>&copy; space-alpha2602.netlify.app/ || All Right Reserved</p><br />
+        <p className='copyright-p'>&copy; space-alpha.in || All Right Reserved</p><br />
       </footer>
     </> 
   );
