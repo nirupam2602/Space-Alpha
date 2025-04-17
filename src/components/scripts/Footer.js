@@ -7,7 +7,7 @@ export default function Footer() {
         <div className='footer-div-1'>
           <div className='footer-div1-el'>
             <h4 className='footer-headings'>Space-Alpha</h4> <br />
-            <p className='footer-paragraph'>High impact blog posts and Informations <br />
+            <p className='footer-paragraph'>High impact blog posts & Informations <br />
               Virtually connect with Universe in our events <br />
               Join a helpful community of Space-Alpha</p>
           </div>
