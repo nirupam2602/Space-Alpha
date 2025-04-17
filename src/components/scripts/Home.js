@@ -22,7 +22,7 @@ export default function Mission() {
             <label className="video-cont" htmlFor='Hide-Video' >
                 <iframe src={ytLi} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </label>
-            <p>hifvfdvdfvdfvdfvdvdi</p>
+            <p>Hi</p>
         </div>
         
     );
