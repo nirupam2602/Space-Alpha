@@ -25,10 +25,12 @@ export default function Footer() {
         </div>
         <span className='scl-head'>Our Social Media Handles </span>
         <div className="socialmedia-handles">
-          <a href="/" className="fa fa-facebook"> </a>
-          <a href="/" className="fa fa-twitter"> </a>
-          <a href="/" className="fa fa-instagram"> </a>
-          <a href="/" className="fa fa-youtube"> </a>
+          <a href="https://www.facebook.com/nirupam.roy.01" className="fa fa-facebook" rel="noreferrer" target="_blank"> </a>
+          <a href="https://x.com/Nirupam026" className="fa fa-twitter" rel="noreferrer" target="_blank"> </a>
+          <a href="https://www.instagram.com/nirupam_2602/" className="fa fa-instagram" rel="noreferrer" target="_blank"> </a>
+          <a href="https://www.youtube.com/@nirupamroy2602" className="fa fa-youtube" rel="noreferrer" target="_blank"> </a>
+          <a href="https://www.linkedin.com/in/nirupamkumar2602/" className="fa fa-linkedin" rel="noreferrer" target="_blank"> </a>
+          <a href="https://github.com/nirupam2602" className="fa fa-github" rel="noreferrer" target="_blank"> </a>
         </div>
         <p className='copyright-p'>&copy; space-alpha.in || All Right Reserved</p><br />
       </footer>
